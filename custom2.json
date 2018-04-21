@@ -2,7 +2,7 @@
     "room": "Water Community",
     "author": "Burkyst",
     "icon": null,
-    "css": "https://rawgit.com/JubileuW/Lili/master/style.css",
+    "css": "https://rawgit.com/JubileuW/Lili/master/newstyle.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
