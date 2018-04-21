@@ -17,3 +17,12 @@
     background-position: center;
     background-image: url("https://i.imgur.com/m55eloa.jpg");
 }
+ /* Ilidan Stormrage */
+[data-cid^="3524489-"] .badge-box .bdg,
+#user-rollover.id-35641504 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://i.imgur.com/bjj0pia.jpg");
+}
