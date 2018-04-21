@@ -1,0 +1,25 @@
+----- [COR PRINCIPAL DA COMUNIDADE] -----
+ 
+/* COLOR */
+.dark-label,
+.user-content.profile .meta .joined,
+#user-settings .container .cap .value,
+.user-content.profile .meta .link .url a,
+.user-content.profile .meta .link .url a:visited
+
+{
+	color: #945ef2;
+}
+
+/* BACKGROUND-COLOR */
+#footer .bar-button .section .chevron:after,
+#footer .bar-button .section .chevron:before,
+#chat-messages::-webkit-scrollbar-thumb,
+#footer-user .info .bar .progress,
+.experience .xp .bar .progress,
+#rcs-progress-container .bar,
+.jspDrag
+
+{
+    background-color: #945ef2 !important;
+}
