@@ -1,0 +1,19 @@
+/* 女孩 */
+[data-cid^="35641504-"] .badge-box .bdg,
+#user-rollover.id-35641504 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://cdn.discordapp.com/attachments/428966525580476421/437266315741495298/HOST.jpg");
+}
+
+/* 支配 - BOT */
+[data-cid^="5714066-"] .badge-box .bdg,
+#user-rollover.id-5714066 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://cdn.discordapp.com/attachments/428966525580476421/437266243935010816/BOT.jpg");
+}
