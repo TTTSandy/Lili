@@ -20,4 +20,15 @@
     background: linear-gradient(rgba(175, 174, 174,.3), rgba(175, 174, 174,.3));
     border-radius: 2px;
     font-size: 10px;
+ }
+ #user-lists .list .user.id-3524489- .name:after,
+#chat [data-cid^='3524489-'] .un:after {
+    content: 'HELPER';
+    display: inline-block;
+    margin: 0 0 0 5px; 
+	padding: 0 3px;
+    color: #ffffff;
+    background: linear-gradient(rgba(175, 174, 174,.3), rgba(175, 174, 174,.3));
+    border-radius: 4px;
+    font-size: 10px;
 }
